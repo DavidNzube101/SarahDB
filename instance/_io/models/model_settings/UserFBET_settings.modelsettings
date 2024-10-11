@@ -1,1 +1,1 @@
-Schema: ['first_name', 'last_name', 'phone_number', 'email', 'wallet_balance', 'unq_id', 'preferred_team', 'username']
+Schema: ['email', 'wallet_balance', 'unique_id', 'username', 'password', 'temp_data1', 'temp_data2', 'temp_data3', 'temp_data4', 'temp_data5', 'temp_data6', 'role']
